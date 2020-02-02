@@ -6,7 +6,7 @@ namespace Test.Application
     {
         public void Create()
         {
-
+            throw new Exception();
         }
     }
 }
